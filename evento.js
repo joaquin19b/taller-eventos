@@ -1,3 +1,4 @@
+button.addEventListener("click",saludar());
 function saludar(){
-    alert("saludar")
+    alert("Hola,soy el div")
 }
